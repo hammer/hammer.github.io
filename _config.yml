@@ -1,0 +1,24 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Jeff Hammerbacher
+tagline:             'Lorem Ipsum'
+description:         'Lorem Ipsuming'
+url:                 https://github.com/hammer
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Jeff Hammerbacher
+  url:               https://twitter.com/hackingdata
+  email:             jeff.hammerbacher@gmail.com
+
