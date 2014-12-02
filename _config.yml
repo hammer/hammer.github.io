@@ -13,7 +13,7 @@ title:               Jeff Hammerbacher
 tagline:             'Lorem Ipsum'
 description:         'Lorem Ipsuming'
 url:                 https://github.com/hammer
-baseurl:             /
+baseurl:             http://hammer.github.io/
 paginate:            5
 
 # About/contact
